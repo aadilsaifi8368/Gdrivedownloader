@@ -2,7 +2,7 @@ import urllib.request
 import os
 import sys
 import subprocess
-import wget_dl
+import wget
 
 def start():
     url=input("Enter the Direct URL of the file you want to download: ")
